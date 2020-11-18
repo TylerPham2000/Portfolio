@@ -5,7 +5,7 @@ title: Tyler Pham
 tagline: Software Engineer
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
-  ctaText: Know more
+  ctaText: About Me
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+I am currently a junior at Allegheny College majoring in Computer Science and Economincs looking for internships to further develop my skillset.
