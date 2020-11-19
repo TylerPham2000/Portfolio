@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Tyler Pham
 tagline: Software Engineer
-featuredImage: /assets/screen-shot-2020-11-18-at-11.50.16-pm.png
+featuredImage: /assets/screen-shot-2020-11-19-at-12.00.13-am.png
 cta:
   ctaText: About Me
   ctaLink: /about
