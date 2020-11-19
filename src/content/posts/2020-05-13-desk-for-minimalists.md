@@ -4,7 +4,7 @@ title: Work Experience
 slug: /minimalists-desk
 date: 2020-11-18 12:46
 description: Work Experience
-featuredImage: /assets/it_computer_programming.jpg
+featuredImage: /assets/computer.jpg
 ---
 **Internship**
 
