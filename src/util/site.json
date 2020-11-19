@@ -3,10 +3,10 @@
     "title": "Tyler Pham",
     "titleTemplate": "%s",
     "description": "Tyler Pham © 2020",
-    "siteUrl": "https://foundation.stackrole.com",
+    "siteUrl": "https://phamtyler.netlify.app",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
