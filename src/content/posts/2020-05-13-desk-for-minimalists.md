@@ -3,11 +3,17 @@ template: blog-post
 title: Work Experience
 slug: /minimalists-desk
 date: 2020-11-18 12:46
-description: sdasd
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+description: Work Experience
+featuredImage: /assets/database-management-system.png
 ---
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
+**Internship**
 
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** *And yet you haven't said what I told you to say!* How can any of us trust you?
+Department Of Computational Pathology | The Massachusetts General Hospital 
 
-![Royal Mail]( "Royal Mail from Unsplash")
+June 2019 - August 2019
+
+* Created and maintained servers which stored medical records of patients.
+* Updataed databases that accommodated 50,000+ entries of medical records. 
+* Performed analyses to help identify tumors and aid healthcare professionals in choosing the correct treatment path for the patient, achieving a 95% success rate. These analyses were conducted using programming languages such as Python and MySQL
+
+![]()
