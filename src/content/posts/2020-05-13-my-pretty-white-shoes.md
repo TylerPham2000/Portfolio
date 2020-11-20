@@ -2,7 +2,7 @@
 template: blog-post
 title: Gator Cogitate
 slug: /gaming-extravaganza
-date: 2020-11-19 00:30
+date: 2020-11-16 00:30
 description: Gator Cogitate
 featuredImage: /assets/webp.net-resizeimage-1-.png
 ---
